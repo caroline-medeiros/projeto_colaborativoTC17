@@ -1,1 +1,18 @@
 Coloque aqui alguns comandos do git:
+O que é git?
+
+O git é um sistema de controle de versão de códigos. Gerencia ramificações feitas por diferentes pessoas de um time de modo a manter a ordem e integração de todas as partes. Ou seja, mesmo que várias pessoas estejam trabalhando em um programa ao mesmo tempo, ainda é possível controlar as mudanças para evitar erros.
+
+Sem um controle de versionamento, como o que o git propõe, pode haver o risco de pessoas acessarem diferentes versões e suas mudanças sumirem por conta da desorganização. 
+
+Além disso, o git é um sistema que permite rastrear alterações e manter um histórico dessas alterações para possibilitar voltar a uma versão estável sempre que ocorrer um problema. Ou seja, caso algum erro quebre o sistema em desenvolvimento, é viável voltar para a versão funcional saudável.
+
+Em complemento ao que falamos, o git ajuda também na transparência e no controle das mudanças feitas. Viabiliza o conhecimento sobre quem fez o quê e a frequência dessas modificações.
+
+Para prosseguirmos, no entanto, é importante destacar a diferença do git para o github. O github é uma plataforma de gestão de códigos que se baseia no git e adiciona um fator social, de compartilhamento e interação interpessoal. O hub é crucial para a gestão de projetos, pois ajuda a visualizar as responsabilidades e as entregas, com um controle de prazos e de detalhes.
+
+O hub é um site aberto para todos. Então, é comum que pessoas colaborem com projetos de outras pessoas dev que nem conhecem, de outros estados ou países. Projetos open-source são disponibilizados lá e podem ser alterados por qualquer pessoa desenvolvedora. Isso só reforça o aspecto comunitário e colaborativo da área de programação. 
+
+Ou seja, enquanto o git é o sistema por trás, que cuida dos códigos e comandos e gerencia as ramificações, o hub é a plataforma onde se postam os códigos. 
+
+O github é uma das plataformas baseadas no git, inclusive. Existem várias outras que tentam implementar as mesmas funções e nelas se usam os mesmos comandos git. Alguns exemplos delas: GitLab e Apache Allura. 
